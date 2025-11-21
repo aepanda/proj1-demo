@@ -1,6 +1,6 @@
 /*******************************************************************************
    Project1 Database - Version 1.0.0
-   Script: Proj1_PostgreSql.sql
+   Script: schema.sql
    Description: Create and Populate data for a 
       High-Value Electronic Parts Distributor Inventory Management Service.
    DB Server: PostgreSql
